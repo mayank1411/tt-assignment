@@ -1,0 +1,8 @@
+.nav-bar{
+      height: 10vh;
+      width: 100vw;
+      background-color: black;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+}
